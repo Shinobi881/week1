@@ -1,4 +1,6 @@
 // Welcome to functions! 
+//Testing 123
+
 // First things first, make sure to add this file to your index.html file, just like you did yesterday. 
 // Functions are an incredibly important part of JS. They let us follow the programming best practice of being DRY (Don't Repeat Yourself). Whenever we start typing the same thing multiple times, we can probably put that inside a function, making our lives easier, and our code easier to read. 
 
